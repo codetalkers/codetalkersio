@@ -4,21 +4,58 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  color: #DCDCDC;
+  background-color: #E9ECF0 !important;
 }
 
-h1, h2 {
+h1 {
   color: #414042;
   font-family: 'Lato', sans-serif;
 }
 
-h3, h4, h5, h6 {
+h2 {
   color: #B11116;
   font-family: 'Lato', sans-serif;
+}
+
+h3 {
+  color: #007947;
+  font-family: 'Lato', sans-serif;
+}
+
+h4,
+h5 {
+  color: #B11116;
+  font-family: 'Lato', sans-serif;
+}
+
+h6 {
+  color: #414042;
+  font-family: 'Lato', sans-serif;
+  padding-top: 5px;
 }
 
 p {
   color: #414042;
   font-weight: 500;
   font-size: 14px;
+}
+
+.codetalkers-blue {
+  background-color: #309ABD;
+}
+
+.codetalkers-red {
+  background-color: #B11116;
+}
+
+.codetalkers-green {
+  background-color: #007947;
+}
+
+.codetalkers-grey {
+  background-color: #414042;
+}
+
+.jumbotron-background {
+  background-color: #B7BABD !important;
 }

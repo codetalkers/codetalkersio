@@ -1,10 +1,10 @@
 {
-  "name": "react-bootstrap",
+  "name": "codetalkers-io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
-    "react-bootstrap": "^0.32.1",
+    "react-bootstrap": "^1.0.0-beta.6",
     "react-dom": "^16.2.0",
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.1.1"
