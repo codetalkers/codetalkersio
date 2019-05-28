@@ -1,5 +1,6 @@
-nav.navbar, .navbar-default {
-  background-color: #DCDCDC !important;
+nav.navbar,
+.navbar-default {
+  background-color: inherit;
 }
 
 .navbar-default {
@@ -14,10 +15,10 @@ nav.navbar, .navbar-default {
   padding: 0;
   height: 50px;
   line-height: 50px;
-  
+
 }
 
-.navbar-default .navbar-nav > li > a {
+.navbar-default .navbar-nav>li>a {
   color: #309ABD;
 }
 
@@ -33,16 +34,19 @@ nav.navbar, .navbar-default {
   background-color: #309ABD;
 }
 
-.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:hover {
   background-color: transparent;
 }
 
-.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:hover {
   color: #309ABD;
   background-color: transparent;
 }
 
-.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
   color: #309ABD;
   background-color: transparent;
 }
