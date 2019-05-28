@@ -22,7 +22,11 @@ h3 {
   font-family: 'Lato', sans-serif;
 }
 
-h4,
+h4 {
+  color: #414042;
+  font-family: 'Lato', sans-serif;
+}
+
 h5 {
   color: #B11116;
   font-family: 'Lato', sans-serif;
