@@ -17,7 +17,7 @@ export default class Home extends Component {
                     className="pl-3 pr-3"
                   />
                   <h3 className="pl-3 pr-3 pt-4">
-                    A non-profit with a start-up approach to empower Natives to
+                    A non-profit with a start-up approach. Empowering Natives to
                     digitally create and share ideas to transform communities.
                   </h3>
                 </Jumbotron>
@@ -28,24 +28,24 @@ export default class Home extends Component {
                 <h2>Coding</h2>
                 <p>
                   As Natives who love to code, we want to create and share our
-                  courses to give students and professionals an opportunity to
-                  participate in the ever-growing, high-demand IT industry.
+                  programs to give students and professionals an opportunity to
+                  participate in the ever-growing IT industry.
                 </p>
               </Col>
               <Col xs={12} md={4}>
                 <h2>Native</h2>
                 <p>
                   Knowing every Native American community is unique, we listen,
-                  learn and experiment to create custom coding programs and
-                  courses specific to the needs of the people.
+                  learn and experiment to create custom programs and courses
+                  specific to the needs of all stakeholders.
                 </p>
               </Col>
               <Col xs={12} md={4}>
                 <h2>Recipricate</h2>
                 <p>
                   Whether its learning a new programming language or discovering
-                  cloud computing, reciprication is an essential piece of
-                  community empowerment and self-determination.{" "}
+                  robotics, reciprication is an essential piece of community
+                  empowerment and self-determination.
                 </p>
               </Col>
             </Row>
