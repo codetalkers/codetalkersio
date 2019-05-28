@@ -17,7 +17,7 @@ export default class Home extends Component {
                     className="pl-3 pr-3"
                   />
                   <h3 className="pl-3 pr-3 pt-4">
-                    A non-profit with a start-up approach to empower Natives
+                    A non-profit with a start-up approach to empower Natives to
                     digitally create and share ideas to transform communities.
                   </h3>
                 </Jumbotron>
