@@ -7,14 +7,14 @@ export default class Home extends Component {
     return (
       <Container>
         <Row>
-          <Col xs={12} md={{ span: 10, offset: 1 }}>
+          <Col xs={12} sm={12} md={12} lg={12} xl={12}>
             <Row>
               <Col>
                 <Jumbotron>
                   <Image
                     src="assets/CodeTalker_Horz_4c.png"
                     width="500"
-                    className="pl-3 pr-3"
+                    className="pl-3 pr-3 img-fluid"
                   />
                   <h4 className="pl-3 pr-3 pt-4">
                     Empowering Natives to digitally create and share ideas to
