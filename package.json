@@ -1,6 +1,7 @@
 {
   "name": "codetalkers-io",
   "version": "0.1.0",
+  "homepage": "http://codetalkers.io",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
