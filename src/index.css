@@ -1,13 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #E9ECF0 !important;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1 {
+  color: #414042;
+  font-family: 'Lato', sans-serif;
+}
+
+h2 {
+  color: #B11116;
+  font-family: 'Lato', sans-serif;
+}
+
+h3 {
+  color: #007947;
+  font-family: 'Lato', sans-serif;
+}
+
+h4,
+h5 {
+  color: #B11116;
+  font-family: 'Lato', sans-serif;
+}
+
+h6 {
+  color: #414042;
+  font-family: 'Lato', sans-serif;
+  padding-top: 5px;
+}
+
+p {
+  color: #414042;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.codetalkers-blue {
+  background-color: #309ABD;
+}
+
+.codetalkers-red {
+  background-color: #B11116;
+}
+
+.codetalkers-green {
+  background-color: #007947;
+}
+
+.codetalkers-grey {
+  background-color: #414042;
+}
+
+.jumbotron-background {
+  background-color: #B7BABD !important;
 }
