@@ -17,8 +17,8 @@ export default class Home extends Component {
                     className="pl-3 pr-3 img-fluid"
                   />
                   <h4 className="pl-3 pr-3 pt-4">
-                    Empowering Natives to digitally create and share ideas to
-                    transform communities.
+                    Natives empowering Natives to digitally create and share
+                    ideas to transform communities.
                   </h4>
                 </Jumbotron>
               </Col>
