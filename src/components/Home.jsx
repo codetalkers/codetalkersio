@@ -41,7 +41,7 @@ export default class Home extends Component {
                 </p>
               </Col>
               <Col xs={12} md={4}>
-                <h2>Recipricate</h2>
+                <h2>Reciprocate</h2>
                 <p>
                   Whether its learning a new programming language or discovering
                   robotics, reciprication is an essential piece of community
