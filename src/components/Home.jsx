@@ -44,7 +44,7 @@ export default class Home extends Component {
                 <h2>Reciprocate</h2>
                 <p>
                   Whether its learning a new programming language or discovering
-                  robotics, reciprication is an essential piece of community
+                  robotics, reciprocation is an essential piece of community
                   empowerment and self-determination.
                 </p>
               </Col>
