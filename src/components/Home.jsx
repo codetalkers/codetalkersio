@@ -21,6 +21,13 @@ export default class Home extends Component {
                     ideas to transform communities.
                   </h4>
                 </Jumbotron>
+                <div class="embed-responsive embed-responsive-16by9">
+                  <iframe
+                    class="embed-responsive-item"
+                    src="https://www.youtube.com/embed/-1BZmz__oXE?rel=0"
+                    allowfullscreen
+                  />
+                </div>
               </Col>
             </Row>
             <Row className="mt-3">
